@@ -110,7 +110,7 @@
 }
 
 /* Responsive  content section*/
-@media screen and (max-width:1050px){
+@media screen and (max-width:1130px){
     .gpt3__header{
         flex-direction: column;
     }
@@ -167,14 +167,6 @@
 
 
 }
-
-
-
-
-
-
-
-
 
 /* main image */
 .gpt3__header-image{
